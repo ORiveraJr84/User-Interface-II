@@ -1,1 +1,5 @@
 /* Add CSS styling here */
+* {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
