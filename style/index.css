@@ -51,11 +51,12 @@ p {
     color: var(--tertiary-highlight-color);
 }
 
-/* img {
-    content: url("/img/wireframe_box.png");
+img {
+    /* content: url("/img/wireframe_box.png");
     filter: invert();
-    opacity: .3;
-} */
+    opacity: .3; */
+    object-fit: cover;
+}
 
 img:hover {
     opacity: .25;
