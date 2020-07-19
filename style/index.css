@@ -39,7 +39,7 @@ h1 > a {
 
 h4 {
     color: var(--secondary-highlight-color);
-    font-size: 1.5vw;
+    font-size: 2vw;
     letter-spacing: .05rem;
 }
 
@@ -206,6 +206,11 @@ h1 > a:visited {
 .card > a > img {
     max-width: 100%;
     margin-bottom: 10px;
+}
+
+.card > a > h4 {
+    display: inline-block;
+    vertical-align: top;
 }
 
 .card > a > h4:hover {
