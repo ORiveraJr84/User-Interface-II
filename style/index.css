@@ -208,6 +208,10 @@ h1 > a:visited {
     margin-bottom: 10px;
 }
 
+.card > a > h4:hover {
+    color: var(--main-color);
+}
+
 footer {
     display: flex;
     flex-direction: column;
