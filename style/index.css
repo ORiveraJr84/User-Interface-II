@@ -230,7 +230,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    width: 15vh;
+    width: 12vh;
 }
 
 #socialNav > a {
@@ -238,10 +238,10 @@ footer {
 }
 
 #socialNav > a > img {
-    max-width: 2.5vh;
+    max-width: 2vh;
 }
 
-#facebook, #instagram {
+#facebook, #instagram, #linkedIn {
     filter: invert();
 }
 
